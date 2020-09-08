@@ -52,6 +52,6 @@ void draw()
 
 void mousePressed()
 {
-  
+  loop();
 }
 
