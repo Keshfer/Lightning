@@ -49,8 +49,8 @@ void draw()
   delay(1000);
   //
   }
-loop();
+
 void mousePressed()
 {
-  loop();
+  draw();
 }
