@@ -19,7 +19,7 @@ void setup()
 void draw()
 {
     //working fade
-    fade = fade + 199;
+    fade = fade + 100;
     fill(0, 0, 0, fade);
     rect(-10,-10,350,350);
     if ( fade >= 200) {
