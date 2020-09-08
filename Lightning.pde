@@ -48,10 +48,10 @@ void draw()
   // Slows the ligtning bolts
   delay(1000);
   //
+  loop();
     }
 
 void mousePressed()
 {
   loop();
 }
-
