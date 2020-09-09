@@ -14,7 +14,7 @@ void setup()
   size(300,300);
   strokeWeight(10);
   background(0, 0, 0);
-  //frameRate(5);
+  frameRate(2);
 }
 void draw()
 {
@@ -46,7 +46,7 @@ void draw()
     endY = 0;
 
   // Slows the ligtning bolts
-  delay(1000);
+  //delay(1000);
   //
     }
 
